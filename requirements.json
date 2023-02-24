@@ -1,0 +1,14 @@
+{
+  "creator_hub": "Centro de Creadores",
+  "for_sale": "En venta",
+  "published": "Publicado",
+  "publish_total": "Publicado({})",
+  "tx_receipt": "TX receipt",
+  "close": "Close",
+  "is_this_free": "Is this a free drop?",
+  "yes": "Yes",
+  "no": "No",
+  "download_pylons_app": "Download Pylons app",
+  "open_pylons_app": "Open Pylons app",
+  "start": "Start",
+}
